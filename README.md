@@ -18,7 +18,7 @@ Este va a ser el contenedor que disponga de las dos partes de la APP, los emplea
 
 Un empleado tendrá opciones limitadas, más bien unas opciones totalmente diferentes, por lo que se conectará al servidor y consumirá una serie de datos específicos.
 
-### Employee-Module
+### Manager-Module
 [Repositorio](http://github.com/naddiaz/App-Manager-Module)
 
 Un Director tendrá un conjunto de operaciones amplias para el control de usuarios, se conectará al servidor buscando datos diferentes al otro rol.
